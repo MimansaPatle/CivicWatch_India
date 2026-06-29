@@ -67,9 +67,13 @@ const AdminDashboard = () => {
       text: "Are you sure you want to delete this report?",
       icon: "warning",
       showCancelButton: true,
-      confirmButtonColor: "#d33",
-      cancelButtonColor: "#1a237e",
       confirmButtonText: "Yes, delete it!",
+      cancelButtonText: "Cancel",
+      customClass: {
+        confirmButton: "bg-red-600 hover:bg-red-700 text-white font-semibold py-2.5 px-5 rounded-xl mr-3 outline-none transition-colors duration-200 text-sm font-poppins",
+        cancelButton: "bg-gov-navy hover:bg-gov-navy-light text-white font-semibold py-2.5 px-5 rounded-xl ml-3 outline-none transition-colors duration-200 text-sm font-poppins"
+      },
+      buttonsStyling: false
     });
 
     if (!confirmDelete.isConfirmed) return;
