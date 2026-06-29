@@ -70,10 +70,17 @@ Admin → Dashboard → Report Verification & Management
 * Analytics Dashboard
 * Multi-Language Support
 
-## 👩‍💻 Developer
+## 👩‍💻 Developers
 
+**Backend Developer**
 **Mimansa Patle**
 B.Tech CSE 
+
+
+**Frontend Developer**
+**Tirth Vaghela**
+IMSC(IT)
+
 
 ## ⭐ Project Objective
 
