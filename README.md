@@ -72,12 +72,12 @@ Admin → Dashboard → Report Verification & Management
 
 ## 👩‍💻 Developers
 
-**Backend Developer**
+**Backend Developer :**
 **Mimansa Patle**
 B.Tech CSE 
 
 
-**Frontend Developer**
+**Frontend Developer :**
 **Tirth Vaghela**
 IMSC(IT)
 
